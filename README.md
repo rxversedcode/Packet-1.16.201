@@ -3,13 +3,7 @@
 </p>
 
 # Info
-Packet Client is an MCBE Utility mod made by: GrandmaaPlays & GrandpaaPlays
+Skid Client is an MCBE Utility mod made by: GrandmaaPlays & GrandpaaPlays
 
-Packet Client is a fork of the Horion Client
+Skid Client is a skid of the Horion Client
 
-
-## Credits
-
-The original Horion developers
-
-12brendon34 - Injector
